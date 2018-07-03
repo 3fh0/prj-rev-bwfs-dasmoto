@@ -1,0 +1,43 @@
+/* Master font family */
+body {
+    font-family: Helvetica;
+}
+
+/* Main Heading */
+h1 {
+    background-image: url(./pattern.jpeg);
+    text-align: center;
+    font-size: 100px;
+    color: khaki;
+}
+
+/* Brushes Heading */
+.brushes {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+/* Frames Heading */
+.frames {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+/* Paint Heading */
+.paint {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+/* Pricing info */
+.price {
+    font-weight: bold;
+    color: blue;
+}
+
