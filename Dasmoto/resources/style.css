@@ -11,27 +11,25 @@ h1 {
     color: khaki;
 }
 
-/* Brushes Heading */
-.brushes {
+/* Master H2 Style */
+h2 {
     font-size: 32px;
     font-weight: bold;
     color: white;
-    background-color: mediumspringgreen;
+}
+
+/* Brushes Heading */
+.brushes {
+        background-color: mediumspringgreen;
 }
 
 /* Frames Heading */
 .frames {
-    font-size: 32px;
-    font-weight: bold;
-    color: white;
     background-color: lightcoral;
 }
 
 /* Paint Heading */
 .paint {
-    font-size: 32px;
-    font-weight: bold;
-    color: white;
     background-color: skyblue;
 }
 
